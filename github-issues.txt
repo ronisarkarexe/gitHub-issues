@@ -1,0 +1,17 @@
+//Change Git User Name and Gmail.
+
+1. before change check it byt this command
+git config --global --list
+
+2. After see this if you need to change then
+
+user.name:-
+git config --global user.name "Roni Chandra Sarkar"
+
+user.email:-
+git config --global user.email "ronichandrasarkar@gmail.com"
+
+3. Done Check it again enter this command
+git config --global --list
+
+// Change SSR Key
