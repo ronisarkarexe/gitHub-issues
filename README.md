@@ -12,11 +12,11 @@ git config --global --list
 
 1. user.name:-
 ```sh
-git config --global user.name "Roni Chandra Sarkar"
+git config --global user.name "Your Name"
 ```
 2. user.email:-
 ```sh
-git config --global user.email "ronichandrasarkar@gmail.com"
+git config --global user.email "your email"
 ```
 
 ### Check for confirmation
