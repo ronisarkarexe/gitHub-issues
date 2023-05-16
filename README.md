@@ -1,6 +1,6 @@
 # Solve GitHub Issues
 
-## Change Git User Name and Gmail.
+## Change Git User Name and Gmail, Open your terminal or command prompt.
 
 ### Before change, check it by this command
 
